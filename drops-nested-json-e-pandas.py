@@ -3,6 +3,7 @@
 
 # In[1]:
 
+#https://malum.com.br/wp/2019/07/07/drops-nested-json-e-pandas/
 
 import requests
 import pandas as pd
