@@ -1,0 +1,10 @@
+type,siteaddress
+bus,http://www.busrent.com
+limousine,http://www.limousinerent.com
+small car,http://www.smallcarrent.com 
+kombi,http://www.kombirent.com 
+Not specified,Not specified 
+coupe,http://www.couperent.com
+suv,http://www.suvrent.com 
+cabrio,http://www.cabriorent.com 
+andere,http://www.andererent.com
